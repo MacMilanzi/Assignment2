@@ -1,0 +1,21 @@
+input,label{
+	display: block;
+}
+.gfg{
+	float: left;
+	margin-right: 20px;
+	font-style: "Times Roman";
+}
+.stl{
+	font-weight: bold;
+	font-size: 30px;
+}
+h1{
+	font-weight: bold;
+}
+h2{
+	text-align: left;
+}
+#records{
+
+}
